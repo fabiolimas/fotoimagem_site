@@ -25,6 +25,7 @@ if($result == $resultado){
         'title'=>'Contato',
         'email'=>$request->email,
         'nome'=>$request->nome,
+        'assunto'=>$request->assunto,
         'body'=>$request->mensagem,
     ];
 

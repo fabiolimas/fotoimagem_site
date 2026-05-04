@@ -359,10 +359,10 @@
       <div class="col-lg-6">
         <form  action="{{route('send-mail')}}" method="post"  class="row g-3">
             @csrf
-          <div class="col-md-6"><input class="form-control form-control-dark" placeholder="Nome" required></div>
-          <div class="col-md-6"><input type="email" class="form-control form-control-dark" placeholder="E-mail" required></div>
-          <div class="col-12"><input class="form-control form-control-dark" placeholder="Assunto"></div>
-          <div class="col-12"><textarea rows="5" class="form-control form-control-dark" placeholder="Sua mensagem" required></textarea></div>
+          <div class="col-md-6"><input class="form-control form-control-dark" name ="nome" placeholder="Nome" required></div>
+          <div class="col-md-6"><input type="email" class="form-control form-control-dark" name ="email" placeholder="E-mail" required></div>
+          <div class="col-12"><input class="form-control form-control-dark" name ="assunto" placeholder="Assunto"></div>
+          <div class="col-12"><textarea rows="5" class="form-control form-control-dark" name ="mensagem" placeholder="Sua mensagem" required></textarea></div>
           <div class="row mt-2">
                                             <div class="col-md-2 conta">
                                                 @php
