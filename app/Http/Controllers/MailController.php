@@ -29,7 +29,7 @@ if($result == $resultado){
     ];
 
 
-    Mail::to('contato@genesiscode.com.br')->send(new ContatoSite($mailData));
+    Mail::to('suporte@lojasimagem.com.br')->send(new ContatoSite($mailData));
 
 
 }else{
