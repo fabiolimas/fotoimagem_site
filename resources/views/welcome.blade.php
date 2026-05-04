@@ -6,7 +6,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>Lojas Imagem — Revelação, Álbuns, Fotopresentes e Molduraria</title>
   <meta name="description" content="Lojas Imagem: revelação fotográfica, álbuns personalizados, fotopresentes, molduraria e atendimento profissional. 6 lojas em PE e BA." />
-
+<link rel="icon" href="{{asset('assets/img/icon.png')}}" type="image/png">
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" />
   <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.css" rel="stylesheet" />
   <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;600;700;800&family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet" />
@@ -66,7 +66,7 @@
   <div class="overlay"></div>
   <div class="container position-relative">
     <div class="py-5" style="max-width:780px">
-      <div class="eyebrow mb-4"><span class="bar"></span>Desde 1997 · 6 lojas na região</div>
+      <div class="eyebrow mb-4"><span class="bar"></span>Desde 1988 · 6 lojas na região</div>
       <h1>Guarde o que<br>o tempo <em class="brand">não apaga.</em></h1>
       <p class="lead mt-4">
         Revelação fotográfica, álbuns personalizados, fotopresentes e molduraria.
@@ -357,11 +357,32 @@
         </a>
       </div>
       <div class="col-lg-6">
-        <form onsubmit="event.preventDefault();this.reset();alert('Mensagem enviada! Em breve entraremos em contato.');" class="row g-3">
+        <form  action="{{route('send-mail')}}" method="post"  class="row g-3">
+            @csrf
           <div class="col-md-6"><input class="form-control form-control-dark" placeholder="Nome" required></div>
           <div class="col-md-6"><input type="email" class="form-control form-control-dark" placeholder="E-mail" required></div>
           <div class="col-12"><input class="form-control form-control-dark" placeholder="Assunto"></div>
           <div class="col-12"><textarea rows="5" class="form-control form-control-dark" placeholder="Sua mensagem" required></textarea></div>
+          <div class="row mt-2">
+                                            <div class="col-md-2 conta">
+                                                @php
+
+                                                $v1=rand(1,9);
+
+                                                $v2=rand(1,9);
+
+                                                $result=$v1+$v2;
+
+                                                @endphp
+                                               {{$v1}} + {{$v2}} =
+                                            </div>
+                                            <input type="hidden" value="{{$v1}}" name='v1'>
+                                            <input type="hidden" value="{{$v2}}" name='v2'>
+                                            <div class="col-md-3 mb-2">
+                                                <input type="number" name="result" class="form-control form-control-dark" required>
+                                            </div>
+
+                                        </div>
           <div class="col-12"><button type="submit" class="btn btn-brand w-100">Enviar mensagem <i class="bi bi-send ms-2"></i></button></div>
         </form>
       </div>
