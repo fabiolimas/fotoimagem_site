@@ -1,0 +1,638 @@
+
+button.navbar-toggler.collapsed {
+    background: #fff;
+}
+
+span.tagsLogo img {
+ width:133px;
+}
+
+.nav-link{
+    color: #000;
+    text-transform: uppercase;
+    font-size: 0.875rem;
+}
+.nav-link:hover{
+    color:#fff;
+}
+.navbar-nav .nav-link.active, .navbar-nav .nav-link.show {
+    color: #000;
+}
+.nav-link.active {
+    color: #000; !important;
+}
+
+section#hoome {
+    height: 100vh;
+    width: 100%;
+    color:#fff;
+    background-image:url('../img/family.jpg');
+    width: 100vw;
+
+}
+.row.sobre {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    align-content: space-between;
+    flex-direction: row;
+    align-items: center;
+}
+section#profissionais {
+    height: 100vh;
+    width: 100%;
+    color:#fff;
+    position:relative;
+    width: 100vw;
+     background-position: center;
+    background-size: cover;
+    transition: .2s;
+
+
+}
+.destaque{
+    color: #d11a1a;
+}
+.gradient-hero {
+    background-image:linear-gradient(135deg, hsl(0 0% 5% / .85) 0%, hsl(0 78% 30% / .65) 100%);
+    position: absolute;
+    top: 0;
+    height: 100vh;
+    width: 100vw;
+}
+.gradient-hero-profissionais {
+    background-image: linear-gradient(135deg, hsl(0 0% 5% / .85) 0%, hsl(0deg 1.53% 3.25% / 94%) 100%);
+    position: absolute;
+    top: 0;
+    height: 100vh;
+    width: 100vw;
+}
+.gradient-hero-lojas {
+  background-image: linear-gradient(135deg, hsl(0 0% 5% / .85) 0%, hsl(0deg 1.53% 3.25% / 36%) 100%);
+    position: absolute;
+    top: 0;
+    width: 94vw;
+    height: 400px;
+}
+.gradient-hero-card {
+        background-image: linear-gradient(15deg, hsl(0 0% 5% / .85) 0%, hsl(0deg 78% 30% / 0%) 100%);
+    position: absolute;
+    top: 0;
+
+        height: -webkit-fill-available;
+    width: -webkit-fill-available;
+}
+.caption {
+    position: absolute;
+    bottom: 0;
+    width: -webkit-fill-available;
+    padding: 17px;
+}
+.subtitulo{
+ font-size: 20px;
+    width: 576px;
+    margin-left: 79px;
+
+}
+.subtitulo-section{
+ font-size: 20px;
+    width: 576px;
+
+
+}
+.subtitulo-section-lojas{
+ font-size: 18px;
+    width: 416px;
+
+
+}
+.cardalbum.albumdestaque {
+    width: 636px;
+    height: 166px;
+    background: #000;
+    color: #fff;
+    padding:24px;
+    position: relative;
+}
+
+.cardalbum {
+    width: 636px;
+    height: 166px;
+    background: #fff;
+    color: #000;
+    padding:24px;
+    position: relative;
+    border: 1px solid #ede8e8 ;
+    transition: .2s;
+}
+.cardlojas {
+
+    height:288px;
+    background: #fff;
+    color: #000;
+    padding:28px;
+    position: relative;
+    border: 1px solid #ede8e8 ;
+    transition: .2s;
+}
+.cardalbum:hover, .cardlojas:hover{
+    border:1px solid red;
+}
+.cardalbum p, .cardlojas p{
+    color:#666;
+}
+
+h1.titulo1 {
+    margin-top: 17%;
+    margin-left: 70px;
+    font-size: 5.5rem;
+}
+
+.iam {
+    animation: fadeIn; /* referring directly to the animation's @keyframe declaration */
+    animation-duration: 2s; /* don't forget to set a duration! */
+
+  }
+  .fullstack{
+    color: #4b30c0;
+  }
+
+  .navbar-brand:hover{
+    animation: pulse; /* referring directly to the animation's @keyframe declaration */
+    animation-duration: 1s; /* don't forget to set a duration! */
+  }
+
+  li.nav-item {
+    margin-left: 29px;
+}
+
+  section#servicos, section#habilidades, section#contato {
+    color: #fff;
+    display: flex;
+    align-items: center;
+    align-content: center;
+    justify-content: center;
+    flex-wrap: wrap;
+
+}
+.imagemAtendimento {
+    width: 62%;
+    margin: 39px;
+}
+.skills {
+    border-top: 2px solid #212529;
+
+    display: flex;
+    background: rgb(33 37 41);
+}
+.skills img {
+    width: 53px !important;
+    margin-left: 36px;
+}
+
+form {
+    width: 486px;
+    height: 439px;
+    background: #212529;
+    padding: 19px;
+    position: relative;
+    border-radius: 9px;
+}
+input, textarea {
+    border: 1px solid #4b30c0 !important;
+    padding: 11px !important;
+}
+.degrade {
+    background-image: linear-gradient(180deg, #ffffff, #ffffff00);
+    width: 100vw;
+    height: 67px;
+    /* position: absolute; */
+}
+.row.contatos {
+
+    display: flex;
+    align-items: center;
+}
+.iconSkill {
+    width: 125px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    align-content: center;
+    flex-wrap: wrap;
+    text-align: center;
+    margin: 0 auto;
+}
+button.btn.btn-success {
+
+    background: #4b30c0;
+}
+.titleSkill {
+    color: #1c1c1c;
+    text-align: center;
+    /* width: fit-content; */
+    font-weight: bold;
+    margin-top: 12px;
+}
+
+.titulo-section{
+    color: #1c1c1c;
+
+    padding-bottom: 12px;
+    font-size:54px;
+    text-align: left;
+
+}
+.titulo-section-lojas{
+    color: #1c1c1c;
+
+    padding-bottom: 12px;
+    font-size:46px;
+    text-align: left;
+
+}
+.headerloajs {
+  width: 94vw;
+    height: 400px;
+    display: flex;
+    align-items: center;
+    padding: 0px 32px;
+    color: #fff;
+    background-position: center;
+}
+.cardRevelacao:hover, .cardmin:hover {
+    box-shadow: 2px 0px 9px 0px #a7a5a5;
+}
+.cardRevelacao {
+     width: 427px;
+    height: 653px;
+    border: 1px solid #ede8e8;
+    position: relative;
+    background-position: center;
+    background-size: cover;
+    transition: .2s;
+    margin-top: 10px;
+}
+#fotopresente{
+    padding:128px 0px;
+    background-color:#fff;
+}
+.itemfotopresente {
+    width: 310px;
+    height: 66px;
+    padding: 20px;
+    font-size: 16px;
+    border: 1px solid #dbdbdb;
+    font-family: sans-serif;
+    transition: .2s;
+    display: flex;
+    align-items: center;
+}
+#profissionais{
+    height:793px;
+    position: relative;
+    padding-top:8rem;
+       padding-bottom:8rem;
+       width: 100vw;
+}
+span.iconlocation {
+    background: #fae8e8;
+    padding: 7px;
+    color: #c51919;
+}
+#lojas{
+
+    position: relative;
+    padding-top:8rem;
+       padding-bottom:8rem;
+       width: 100vw;
+}
+.card.card-prof {
+    --bs-card-bg: none;
+    color: #fff;
+    border:none;
+}
+
+.container.con-profissional {
+    z-index: 3;
+padding-right: 2rem;
+    padding-left: 2rem;
+}
+.container.con-lojas {
+    z-index: 3;
+
+    position: relative;
+}
+.cardFotopresente{
+    width:636px;
+    height:477px;
+    border: 1px solid #ede8e8;
+    position: relative;
+    background-position: center;
+    background-size: cover;
+    transition: .2s;
+}
+
+.itemfotopresente:hover{
+    border:1px solid red;
+}
+
+.cardFotolivro {
+    width: 636px;
+    height: 795px;
+    border: 1px solid #ede8e8;
+    position: relative;
+    background-position: center;
+    background-size: cover;
+    transition: .2s;
+}
+.tagFotolivro {
+      width: 220px;
+    height: 140px;
+    background: #d11a1a;
+    bottom: -23px;
+    position: absolute;
+    right: -23px;
+    padding: 19px;
+    color: #fff;
+    text-transform: uppercase
+}
+
+section#fotoalbum {
+    background: #f5f5f5;
+    padding-top: 8rem;
+   padding-bottom: 8rem;
+}
+
+.cardmin {
+    width: 405px;
+    height: 320px;
+    border: 1px solid #ede8e8;
+    position: relative;
+    background-position: center;
+    background-size: cover;
+    transition: .2s;
+    margin: 8px;
+}
+span.maispedido {
+    position: absolute;
+    top: 27px;
+    background: #c51919;
+    left: 26px;
+    padding: 5px;
+}
+
+span.destaquefotoalbum
+ {
+    position: absolute;
+    top: 15px;
+    background: #c51919;
+    right: 15px;
+    padding: 5px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.cardRevelacao img {
+    width: 100%;
+    transition: 0.5s;
+}
+.cardalbum h3, .cardlojas h3{
+    font-size:24px;
+}
+.cardalbum p, .cardlojas p{
+    font-size:14px;
+}
+
+span.icon-lojas {
+    color: #c51919;
+}
+
+
+
+
+
+.screenshot {
+
+    display: block;
+    margin: 0 auto;
+    border-radius: center;
+
+}
+.screenshot img {
+    border-radius: 17px;
+}
+ul.navbar-nav {
+    margin-right: 98px;
+}
+.btn-revelacao {
+    background-color: #c51919;
+    color: #fff !important;
+    border-radius: 1px;
+}
+.btn-inicio{
+    font-size: 14px;
+    width: 219px;
+    padding: 16px;
+}
+.tec {
+    background: #4b30c0;
+    margin: 9px;
+    border-radius: 12px;
+    padding: 5px;
+    text-align: center;
+
+
+}
+.alert.alert-success.alert-dismissible.fade.show {
+    position: absolute;
+    top: 76px;
+    z-index: 999;
+    width: -webkit-fill-available;
+}
+
+.row.cardProject {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    align-content: center;
+    margin: 5px;
+    position: relative;
+    padding: 17px;
+    background: #1c1c1c;
+    width: 84%;
+    height:387px;
+    border-radius: 7px;
+
+
+
+}
+
+h3.tituloProjeto {
+    text-align: center;
+    margin-bottom: 12px;
+}
+.descricao {
+    margin-bottom: 5px;
+}
+.actionsBtn {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 12px;
+}
+button.btn.btnAction {
+    color: #fff;
+    border: 1px solid #4b30c0;
+    width: 64%;
+}
+
+
+
+  .center {
+    width: 180px;
+    height: 60px;
+    position: absolute;
+  }
+
+  /* .btn {
+    width: 180px;
+    height: 60px;
+    cursor: pointer;
+    background: transparent;
+    border: 1px solid #4b30c0;
+    outline: none;
+    transition: 1s ease-in-out;
+  } */
+  .col-md-2.conta {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+  svg {
+    position: absolute;
+    left: 0;
+    top: 0;
+    fill: none;
+    stroke: #fff;
+    stroke-dasharray: 150 480;
+    stroke-dashoffset: 150;
+    transition: 1s ease-in-out;
+    border-radius: 5px !important;
+  }
+
+
+
+  .btn:hover svg {
+    stroke-dashoffset: -480;
+  }
+.btncontato {
+
+    margin-left: 67px;
+    margin-top: 31px;
+}
+  footer#footer {
+    background: #212529 !important;
+    color: #fff !important;
+    height: 92px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.whatsapp-float {
+    position: fixed;
+    width: 60px;
+    height: 60px;
+    bottom: 20px;
+    right: 20px;
+    background-color: #25D366;
+    color: white;
+    border-radius: 50%;
+    text-align: center;
+    box-shadow: 2px 2px 5px rgba(0,0,0,0.3);
+    z-index: 1000;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: all 0.3s ease;
+  }
+
+  .whatsapp-float img {
+    width: 30px;
+    height: 30px;
+    filter: brightness(0) invert(1);
+  }
+
+  .whatsapp-float:hover {
+    transform: scale(1.1);
+  }
+
+  .btn span {
+    color: white;
+    font-size: 18px;
+    font-weight: 100;
+  }
+
+  #particles-js {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+
+}
+
+  @media only screen and (max-width: 600px) {
+    button.navbar-toggler {
+        background: #fff;
+    }
+    nav.navbar.navbar-expand-lg.bg-body-tertiary {
+        position: relative !important;
+        width: auto !important;
+    }
+    .formulario {
+        margin: 0;
+        padding: 0;
+        width: auto;
+    }
+    .screenshot {
+        width: auto;
+
+    }
+    .btncontato {
+        margin-bottom: 75px;
+
+    }
+    body {
+        width: 414px;
+    }
+    form.aos-init.aos-animate {
+        width: 373px;
+        height: 464px;
+    }
+    .main {
+        width: min-content;
+    }
+    section#hoome {
+
+        width: 414px;
+    }
+    .skills {
+
+        width: 414px;
+    }
+    .row.cardProject {
+
+
+
+        width: 414px;
+        height: 133%;
+
+        margin-left: -110px;
+
+    }
+    .row.actionsBtn .center {
+        position: relative;
+        margin: 10px auto;
+    }
+}
