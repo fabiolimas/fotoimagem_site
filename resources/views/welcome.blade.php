@@ -37,7 +37,7 @@
   <nav class="navbar navbar-expand-lg">
     <div class="container">
       <a class="navbar-brand d-flex align-items-center" href="#inicio">
-        <img src="{{asset('assets/img/logo.png')}}" class="w-50">
+        <img src="{{asset('assets/img/logo.png')}}" class="w-50" alt="Logo">
       </a>
       <button class="navbar-toggler border-0" type="button" data-bs-toggle="collapse" data-bs-target="#mainNav">
         <i class="bi bi-list fs-3"></i>
@@ -400,9 +400,9 @@
        <img src="{{asset('assets/img/logo.png')}}" class="w-50">
         <p class="small">Há mais de 36 anos eternizando memórias com qualidade, dedicação e o melhor da tecnologia em fotografia.</p>
         <div class="d-flex gap-2 mt-3">
-          <a href="#" class="social"><i class="bi bi-facebook"></i></a>
-          <a href="#" class="social"><i class="bi bi-instagram"></i></a>
-          <a href="https://wa.me/557436213085" class="social"><i class="bi bi-whatsapp"></i></a>
+          <a href="https://www.facebook.com/fotoeoticaimagemoficial" target="_blank" class="social"><i class="bi bi-facebook"></i></a>
+          <a href="https://www.instagram.com/imagemfotoeotica/" target="_blank"  class="social"><i class="bi bi-instagram"></i></a>
+          <a href="https://wa.me/557436213085" class="social" target="_blank" ><i class="bi bi-whatsapp"></i></a>
         </div>
       </div>
       <div class="col-6 col-lg-2">
