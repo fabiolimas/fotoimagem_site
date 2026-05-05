@@ -70,7 +70,7 @@
       <h1>Guarde o que<br>o tempo <em class="brand">não apaga.</em></h1>
       <p class="lead mt-4">
         Revelação fotográfica, álbuns personalizados, fotopresentes e molduraria.
-        Eternizamos suas memórias com a qualidade de quem entende de fotografia há mais de 25 anos.
+        Eternizamos suas memórias com a qualidade de quem entende de fotografia há mais de 36 anos.
       </p>
       <div class="d-flex flex-wrap gap-3 mt-4">
         <a href="https://easyphoto.lojasimagem.com.br" class="btn btn-brand" target="_blank">Quero revelar <i class="bi bi-arrow-right ms-2"></i></a>
@@ -267,7 +267,7 @@
         <div class="col-sm-4">
           <i class="bi bi-award text-brand fs-2 d-block mb-3"></i>
           <h3 class="h5">Experiência</h3>
-          <p class="text-white-50 small">Mais de 25 anos atendendo profissionais.</p>
+          <p class="text-white-50 small">Mais de 36 anos atendendo profissionais.</p>
         </div>
       </div>
       <a href="#contato" class="btn btn-brand">Falar com a equipe profissional</a>
@@ -293,7 +293,7 @@
       <div class="ov">
         <div class="container">
           <p class="text-white" style="font-family:'Playfair Display',serif;font-size:clamp(1.5rem,3vw,2.4rem);font-weight:700;max-width:520px">
-            Há mais de 25 anos eternizando memórias na nossa região.
+            Há mais de 36 anos eternizando memórias na nossa região.
           </p>
         </div>
       </div>
@@ -304,12 +304,12 @@
       <!-- 6 lojas -->
       <!-- generated -->
       <template id="store-tpl"></template>
-      <div class="col-md-6 col-lg-4"><article class="store-card"><div class="d-flex align-items-center gap-3 mb-4"><span class="store-icon"><i class="bi bi-geo-alt"></i></span><h3 class="h4 m-0">Petrolina</h3></div><p class="small text-secondary mb-3"><i class="bi bi-pin-map me-2 text-brand"></i>Av. Guararapes, 1783 — Centro, Petrolina/PE</p><p class="small text-secondary mb-3"><i class="bi bi-telephone me-2 text-brand"></i>(87) 3866-2121</p><p class="small text-secondary mb-3"><i class="bi bi-clock me-2 text-brand"></i>Seg a sex: 8h–18h · Sáb: 8h–13h</p><a href="https://wa.me/5574811530577" target="_blank" class="btn btn-outline-dark-square w-100"><i class="bi bi-whatsapp me-2"></i>WhatsApp</a></article></div>
-      <div class="col-md-6 col-lg-4"><article class="store-card"><div class="d-flex align-items-center gap-3 mb-4"><span class="store-icon"><i class="bi bi-geo-alt"></i></span><h3 class="h4 m-0">River Shopping</h3></div><p class="small text-secondary mb-3"><i class="bi bi-pin-map me-2 text-brand"></i>Monsenhor Ângelo Sampaio, 100 — Centro, Petrolina/PE</p><p class="small text-secondary mb-3"><i class="bi bi-telephone me-2 text-brand"></i>(87) 3861-4355</p><p class="small text-secondary mb-3"><i class="bi bi-clock me-2 text-brand"></i>Seg a sáb: 9h–22h · Dom: 14h–20h</p><a href="https://wa.me/5574811530577" target="_blank" class="btn btn-outline-dark-square w-100"><i class="bi bi-whatsapp me-2"></i>WhatsApp</a></article></div>
-      <div class="col-md-6 col-lg-4"><article class="store-card"><div class="d-flex align-items-center gap-3 mb-4"><span class="store-icon"><i class="bi bi-geo-alt"></i></span><h3 class="h4 m-0">Jacobina</h3></div><p class="small text-secondary mb-3"><i class="bi bi-pin-map me-2 text-brand"></i>Av. Orlando Oliveira Pires, 206 — Centro, Jacobina/BA</p><p class="small text-secondary mb-3"><i class="bi bi-telephone me-2 text-brand"></i>(74) 3621-3085</p><p class="small text-secondary mb-3"><i class="bi bi-clock me-2 text-brand"></i>Seg a sex: 8h–18h · Sáb: 8h–13h</p><a href="https://wa.me/5574811530577" target="_blank" class="btn btn-outline-dark-square w-100"><i class="bi bi-whatsapp me-2"></i>WhatsApp</a></article></div>
-      <div class="col-md-6 col-lg-4"><article class="store-card"><div class="d-flex align-items-center gap-3 mb-4"><span class="store-icon"><i class="bi bi-geo-alt"></i></span><h3 class="h4 m-0">Juazeiro</h3></div><p class="small text-secondary mb-3"><i class="bi bi-pin-map me-2 text-brand"></i>Rua Américo Alves, 14 — Centro, Juazeiro/BA</p><p class="small text-secondary mb-3"><i class="bi bi-telephone me-2 text-brand"></i>(74) 3612-7373</p><p class="small text-secondary mb-3"><i class="bi bi-clock me-2 text-brand"></i>Seg a sex: 8h–18h</p><a href="https://wa.me/5574811530577" target="_blank" class="btn btn-outline-dark-square w-100"><i class="bi bi-whatsapp me-2"></i>WhatsApp</a></article></div>
-      <div class="col-md-6 col-lg-4"><article class="store-card"><div class="d-flex align-items-center gap-3 mb-4"><span class="store-icon"><i class="bi bi-geo-alt"></i></span><h3 class="h4 m-0">Senhor do Bonfim</h3></div><p class="small text-secondary mb-3"><i class="bi bi-pin-map me-2 text-brand"></i>Praça Rui Barbosa, 08 — Centro, Sr. do Bonfim/BA</p><p class="small text-secondary mb-3"><i class="bi bi-telephone me-2 text-brand"></i>(74) 3541-3685</p><p class="small text-secondary mb-3"><i class="bi bi-clock me-2 text-brand"></i>Seg a sex: 8h–18h · Sáb: 8h–13h</p><a href="https://wa.me/5574811530577" target="_blank" class="btn btn-outline-dark-square w-100"><i class="bi bi-whatsapp me-2"></i>WhatsApp</a></article></div>
-      <div class="col-md-6 col-lg-4"><article class="store-card"><div class="d-flex align-items-center gap-3 mb-4"><span class="store-icon"><i class="bi bi-geo-alt"></i></span><h3 class="h4 m-0">Capim Grosso</h3></div><p class="small text-secondary mb-3"><i class="bi bi-pin-map me-2 text-brand"></i>Av. ACM, 01 — Centro, Capim Grosso/BA</p><p class="small text-secondary mb-3"><i class="bi bi-telephone me-2 text-brand"></i>(74) 3651-1255</p><p class="small text-secondary mb-3"><i class="bi bi-clock me-2 text-brand"></i>Seg a sex: 8h–18h</p><a href="https://wa.me/5574811530577" target="_blank" class="btn btn-outline-dark-square w-100"><i class="bi bi-whatsapp me-2"></i>WhatsApp</a></article></div>
+      <div class="col-md-6 col-lg-4"><article class="store-card"><div class="d-flex align-items-center gap-3 mb-4"><span class="store-icon"><i class="bi bi-geo-alt"></i></span><h3 class="h4 m-0">Petrolina</h3></div><p class="small text-secondary mb-3"><i class="bi bi-pin-map me-2 text-brand"></i>Av. Guararapes, 1783 — Centro, Petrolina/PE</p><p class="small text-secondary mb-3"><i class="bi bi-telephone me-2 text-brand"></i>(87) 3866-2121</p><p class="small text-secondary mb-3"><i class="bi bi-clock me-2 text-brand"></i>Seg a sex: 8h–18h · Sáb: 8h–13h</p><a href="https://wa.me/558738662121" target="_blank" class="btn btn-outline-dark-square w-100"><i class="bi bi-whatsapp me-2"></i>WhatsApp</a></article></div>
+      <div class="col-md-6 col-lg-4"><article class="store-card"><div class="d-flex align-items-center gap-3 mb-4"><span class="store-icon"><i class="bi bi-geo-alt"></i></span><h3 class="h4 m-0">River Shopping</h3></div><p class="small text-secondary mb-3"><i class="bi bi-pin-map me-2 text-brand"></i>Monsenhor Ângelo Sampaio, 100 — Centro, Petrolina/PE</p><p class="small text-secondary mb-3"><i class="bi bi-telephone me-2 text-brand"></i>(87) 3861-4355</p><p class="small text-secondary mb-3"><i class="bi bi-clock me-2 text-brand"></i>Seg a sáb: 9h–22h · Dom: 14h–20h</p><a href="https://wa.me/5574988114651" target="_blank" class="btn btn-outline-dark-square w-100"><i class="bi bi-whatsapp me-2"></i>WhatsApp</a></article></div>
+      <div class="col-md-6 col-lg-4"><article class="store-card"><div class="d-flex align-items-center gap-3 mb-4"><span class="store-icon"><i class="bi bi-geo-alt"></i></span><h3 class="h4 m-0">Jacobina</h3></div><p class="small text-secondary mb-3"><i class="bi bi-pin-map me-2 text-brand"></i>Av. Orlando Oliveira Pires, 206 — Centro, Jacobina/BA</p><p class="small text-secondary mb-3"><i class="bi bi-telephone me-2 text-brand"></i>(74) 3621-3085</p><p class="small text-secondary mb-3"><i class="bi bi-clock me-2 text-brand"></i>Seg a sex: 8h–18h · Sáb: 8h–13h</p><a href="https://wa.me/557436213085" target="_blank" class="btn btn-outline-dark-square w-100"><i class="bi bi-whatsapp me-2"></i>WhatsApp</a></article></div>
+      <div class="col-md-6 col-lg-4"><article class="store-card"><div class="d-flex align-items-center gap-3 mb-4"><span class="store-icon"><i class="bi bi-geo-alt"></i></span><h3 class="h4 m-0">Juazeiro</h3></div><p class="small text-secondary mb-3"><i class="bi bi-pin-map me-2 text-brand"></i>Rua Américo Alves, 14 — Centro, Juazeiro/BA</p><p class="small text-secondary mb-3"><i class="bi bi-telephone me-2 text-brand"></i>(74) 3612-7373</p><p class="small text-secondary mb-3"><i class="bi bi-clock me-2 text-brand"></i>Seg a sex: 8h–18h</p><a href="https://wa.me/5574988020153" target="_blank" class="btn btn-outline-dark-square w-100"><i class="bi bi-whatsapp me-2"></i>WhatsApp</a></article></div>
+      <div class="col-md-6 col-lg-4"><article class="store-card"><div class="d-flex align-items-center gap-3 mb-4"><span class="store-icon"><i class="bi bi-geo-alt"></i></span><h3 class="h4 m-0">Senhor do Bonfim</h3></div><p class="small text-secondary mb-3"><i class="bi bi-pin-map me-2 text-brand"></i>Praça Rui Barbosa, 08 — Centro, Sr. do Bonfim/BA</p><p class="small text-secondary mb-3"><i class="bi bi-telephone me-2 text-brand"></i>(74) 3541-3685</p><p class="small text-secondary mb-3"><i class="bi bi-clock me-2 text-brand"></i>Seg a sex: 8h–18h · Sáb: 8h–13h</p><a href="https://wa.me/5574988020154" target="_blank" class="btn btn-outline-dark-square w-100"><i class="bi bi-whatsapp me-2"></i>WhatsApp</a></article></div>
+      <div class="col-md-6 col-lg-4"><article class="store-card"><div class="d-flex align-items-center gap-3 mb-4"><span class="store-icon"><i class="bi bi-geo-alt"></i></span><h3 class="h4 m-0">Capim Grosso</h3></div><p class="small text-secondary mb-3"><i class="bi bi-pin-map me-2 text-brand"></i>Av. ACM, 01 — Centro, Capim Grosso/BA</p><p class="small text-secondary mb-3"><i class="bi bi-telephone me-2 text-brand"></i>(74) 3651-1255</p><p class="small text-secondary mb-3"><i class="bi bi-clock me-2 text-brand"></i>Seg a sex: 8h–18h</p><a href="https://wa.me/5574988126254" target="_blank" class="btn btn-outline-dark-square w-100"><i class="bi bi-whatsapp me-2"></i>WhatsApp</a></article></div>
     </div>
   </div>
 </section>
@@ -330,7 +330,7 @@
     </div>
 
     <div class="stats mt-5">
-      <div><div class="v">25+</div><div class="l">Anos de história</div></div>
+      <div><div class="v">36+</div><div class="l">Anos de história</div></div>
       <div><div class="v">6</div><div class="l">Lojas físicas</div></div>
       <div><div class="v">+1M</div><div class="l">Fotos reveladas</div></div>
       <div><div class="v">100%</div><div class="l">Compromisso com qualidade</div></div>
@@ -347,13 +347,13 @@
         <h2 class="display-4 fw-bold mb-3">Vamos eternizar <em class="brand">sua história?</em></h2>
         <p class="text-white-50 fs-5 mb-5">Entre em contato para tirar dúvidas, pedir orçamentos ou conhecer melhor nossos produtos e serviços. Nossa equipe responde rapidamente.</p>
 
-        <a href="https://wa.me/5574811530577" target="_blank" class="contact-tile mb-3">
+        <a href="https://wa.me/557436213085" target="_blank" class="contact-tile mb-3">
           <span class="ic"><i class="bi bi-whatsapp"></i></span>
-          <div><div class="text-uppercase small text-white-50" style="letter-spacing:.14em">WhatsApp</div><div class="fw-medium">(74) 8115-3057</div></div>
+          <div><div class="text-uppercase small text-white-50" style="letter-spacing:.14em">WhatsApp</div><div class="fw-medium">(74) 3621-3085</div></div>
         </a>
-        <a href="mailto:contato@fotoimagem.com.br" class="contact-tile">
+        <a href="mailto:contato@lojasimagem.com.br" class="contact-tile">
           <span class="ic"><i class="bi bi-envelope"></i></span>
-          <div><div class="text-uppercase small text-white-50" style="letter-spacing:.14em">E-mail</div><div class="fw-medium">contato@fotoimagem.com.br</div></div>
+          <div><div class="text-uppercase small text-white-50" style="letter-spacing:.14em">E-mail</div><div class="fw-medium">contato@lojasimagem.com.br</div></div>
         </a>
       </div>
       <div class="col-lg-6">
@@ -389,7 +389,7 @@
     </div>
   </div>
 </section>
-  <a href="https://wa.me/5574991381274" class="whatsapp-float" target="_blank" title="Fale conosco no WhatsApp">
+  <a href="https://wa.me/557436213085" class="whatsapp-float" target="_blank" title="Fale conosco no WhatsApp">
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/whatsapp.svg" alt="WhatsApp" />
 </a>
 <!-- FOOTER -->
@@ -398,11 +398,11 @@
     <div class="row g-5">
       <div class="col-lg-4">
        <img src="{{asset('assets/img/logo.png')}}" class="w-50">
-        <p class="small">Há mais de 25 anos eternizando memórias com qualidade, dedicação e o melhor da tecnologia em fotografia.</p>
+        <p class="small">Há mais de 36 anos eternizando memórias com qualidade, dedicação e o melhor da tecnologia em fotografia.</p>
         <div class="d-flex gap-2 mt-3">
           <a href="#" class="social"><i class="bi bi-facebook"></i></a>
           <a href="#" class="social"><i class="bi bi-instagram"></i></a>
-          <a href="https://wa.me/5574811530577" class="social"><i class="bi bi-whatsapp"></i></a>
+          <a href="https://wa.me/557436213085" class="social"><i class="bi bi-whatsapp"></i></a>
         </div>
       </div>
       <div class="col-6 col-lg-2">
@@ -426,8 +426,8 @@
       </div>
       <div class="col-lg-3">
         <h6>Contato</h6>
-        <p class="small mb-1"><i class="bi bi-whatsapp text-brand me-2"></i>(74) 8115-3057</p>
-        <p class="small mb-1"><i class="bi bi-envelope text-brand me-2"></i>contato@fotoimagem.com.br</p>
+        <p class="small mb-1"><i class="bi bi-whatsapp text-brand me-2"></i>(74) 3621-3085</p>
+        <p class="small mb-1"><i class="bi bi-envelope text-brand me-2"></i>contato@lojasimagem.com.br</p>
         <p class="small mb-1"><i class="bi bi-geo-alt text-brand me-2"></i>6 lojas em PE e BA</p>
       </div>
     </div>
