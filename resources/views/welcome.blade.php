@@ -97,6 +97,7 @@
     </div>
     <div class="row g-4">
       <div class="col-lg-4 col-md-6">
+        <a href="https://easyphoto.lojasimagem.com.br" class="nav-link" target="_blank">
         <article class="service-card featured h-100">
           <div class="img-wrap">
             <img src="{{asset('assets/img/revelacao.jpg')}}" alt="Revelação fotográfica" loading="lazy" />
@@ -108,6 +109,7 @@
             </div>
           </div>
         </article>
+        </a>
       </div>
       <div class="col-lg-8">
         <div class="row g-4">
