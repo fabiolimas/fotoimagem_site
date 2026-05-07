@@ -217,8 +217,19 @@
           <p class="small text-secondary mb-3">Capa dura para fotos no tamanho 20x25cm com capacidade de até 100 fotos.</p>
           <div><span class="feature"><i class="bi bi-check2 text-brand"></i> Capa dura</span><span class="feature"><i class="bi bi-check2 text-brand"></i> Até 100 fotos</span><span class="feature"><i class="bi bi-check2 text-brand"></i> Fotos 20x25cm</span></div>
         </div>
+         <div class="row mt-2">
+        <div class="col-md-6">
+                 <a href="https://foto.lojasimagem.com.br/precos/" class="btn btn-brand " target="_blank">Ver Preços dos Albuns <i class="bi bi-book-half"></i></a>
+        </div>
+        <div class="col-md-6">
+                <a href="https://foto.lojasimagem.com.br/medidas/" class="btn btn-brand" target="_blank">Ver Dimensões de Capas <i class="bi bi-rulers"></i></a>
+        </div>
+
+
+    </div>
       </div>
     </div>
+
   </div>
 </section>
 
