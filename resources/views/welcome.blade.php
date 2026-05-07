@@ -364,9 +364,9 @@
           <span class="ic"><i class="bi bi-whatsapp"></i></span>
           <div><div class="text-uppercase small text-white-50" style="letter-spacing:.14em">WhatsApp</div><div class="fw-medium">(74) 3621-3085</div></div>
         </a>
-        <a href="mailto:contato@lojasimagem.com.br" class="contact-tile">
+        <a href="mailto:sac@lojasimagem.com.br" class="contact-tile">
           <span class="ic"><i class="bi bi-envelope"></i></span>
-          <div><div class="text-uppercase small text-white-50" style="letter-spacing:.14em">E-mail</div><div class="fw-medium">contato@lojasimagem.com.br</div></div>
+          <div><div class="text-uppercase small text-white-50" style="letter-spacing:.14em">E-mail</div><div class="fw-medium">sac@lojasimagem.com.br</div></div>
         </a>
       </div>
       <div class="col-lg-6">
@@ -440,7 +440,7 @@
       <div class="col-lg-3">
         <h6>Contato</h6>
         <p class="small mb-1"><i class="bi bi-whatsapp text-brand me-2"></i>(74) 3621-3085</p>
-        <p class="small mb-1"><i class="bi bi-envelope text-brand me-2"></i>contato@lojasimagem.com.br</p>
+        <p class="small mb-1"><i class="bi bi-envelope text-brand me-2"></i>sac@lojasimagem.com.br</p>
         <p class="small mb-1"><i class="bi bi-geo-alt text-brand me-2"></i>6 lojas em PE e BA</p>
       </div>
     </div>
